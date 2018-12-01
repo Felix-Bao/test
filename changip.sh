@@ -27,9 +27,9 @@ IPPATH=/var/log/IP                    # IP address storage file
 TMPIP=/tmp/tmpIP                      # Temp IP storage file
 LOGPATH=/var/log/changeip.log         # Log file
 TEMP=/tmp/temp                        # Temp storage file
-CIPUSER=bfelite@gmail.com                              # ChangeIP.com Username
-CIPPASS=1b9a8o4f                              # ChangeIP.com Password
-CIPSET=1                              # ChangeIP.com recordset
+CIPUSER=bfelite@gmail.com             # ChangeIP.com Username
+CIPPASS=1b9a8o4f                      # ChangeIP.com Password
+CIPSET=iqiyi.onmypc.net               # ChangeIP.com recordset
 LOGLEVEL=2                            # 0=off,1=normal,2=verbose
 LOGMAX=500                            # Max log lines, 0=unlimited
 #################################################################
